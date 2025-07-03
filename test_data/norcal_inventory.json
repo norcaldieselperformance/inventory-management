@@ -1,0 +1,1208 @@
+{
+    "Norcal Diesel Performance": {
+        "California": {
+            "Norcal Diesel Performance Parts": [
+                {
+                    "STOCK_ID": "NCDP-GM-L5P-HSKIT",
+                    "WSM_ID": "30517573",
+                    "TITLE": "2017 - 2023 L5P 6.6L Head Gasket Kit w/ARP Studs",
+                    "INVENTORY": "0",
+                    "PRICE": "1799.00",
+                    "COST": "1039.10"
+                },
+                {
+                    "STOCK_ID": "NCDP-19431596",
+                    "WSM_ID": "30517069",
+                    "TITLE": "19431596 Genuine Allison T14 A50 Transmission Control Module NEW",
+                    "INVENTORY": "0",
+                    "PRICE": "1400.00",
+                    "COST": "476.15"
+                },
+                {
+                    "STOCK_ID": "NCDP-FD-0306-HSKIT18",
+                    "WSM_ID": "30517107",
+                    "TITLE": "2003 - 2006 6.0L PowerStroke Head Gasket kit w/ ARP Studs(18MM)",
+                    "INVENTORY": "0",
+                    "PRICE": "1249.00",
+                    "COST": "915.30"
+                },
+                {
+                    "STOCK_ID": "NCDP-GM-LLYLBZ-HSKIT",
+                    "WSM_ID": "30516151",
+                    "TITLE": "2004.5-2007 LLY/LBZ 6.6L Duramax Grade C Head Gasket Kit with ARP Studs",
+                    "INVENTORY": "4",
+                    "PRICE": "1399.00",
+                    "COST": "848.90"
+                },
+                {
+                    "STOCK_ID": "NCDP-GM-LLYLBZ-HSKIT-CA",
+                    "WSM_ID": "30517504",
+                    "TITLE": "2004.5-2007 LLY/LBZ 6.6L Duramax Grade C Head Gasket Kit with Custom Age 625+ w/ ARP Studs",
+                    "INVENTORY": "18",
+                    "PRICE": "2599.00",
+                    "COST": "848.90"
+                },
+                {
+                    "STOCK_ID": "NCDP-FD-0607-HSKIT20",
+                    "WSM_ID": "30517106",
+                    "TITLE": "2006 - 2010 6.0L PowerStroke Head Gasket kit w/ ARP Studs(20MM)",
+                    "INVENTORY": "0",
+                    "PRICE": "1249.00",
+                    "COST": "873.83"
+                },
+                {
+                    "STOCK_ID": "NCDP-19431597",
+                    "WSM_ID": "30517071",
+                    "TITLE": "19431597 Genuine Allison Transmission Control Module",
+                    "INVENTORY": "0",
+                    "PRICE": "1800.00",
+                    "COST": "573.50"
+                },
+                {
+                    "STOCK_ID": "NCDP-GM-LB7-HSKIT",
+                    "WSM_ID": "30515987",
+                    "TITLE": "2001 - 2004 LB7 6.6L Duramax Head Gasket Kit w/ ARP Studs",
+                    "INVENTORY": "1",
+                    "PRICE": "1399.00",
+                    "COST": "864.42"
+                },
+                {
+                    "STOCK_ID": "NCDP-RAM-67-0717-HSKIT",
+                    "WSM_ID": "30516199",
+                    "TITLE": "2007 - 2017 6.7L Cummins ISB Top End Head Gasket Kit w/ ARP Studs",
+                    "INVENTORY": "0",
+                    "PRICE": "1249.00",
+                    "COST": "777.79"
+                },
+                {
+                    "STOCK_ID": "NCDP-GM-LMM-HSKIT",
+                    "WSM_ID": "30516148",
+                    "TITLE": "2007.5-2010 LMM 6.6L Duramax Head Gasket Kit w/ ARP Studs",
+                    "INVENTORY": "4",
+                    "PRICE": "1399.00",
+                    "COST": "892.84"
+                },
+                {
+                    "STOCK_ID": "NCDP-FD-6.4-ARP",
+                    "WSM_ID": "30515993",
+                    "TITLE": "2008 - 2010 6.4L Powerstroke Head Gasket Kit w/ ARP Studs",
+                    "INVENTORY": "0",
+                    "PRICE": "1449.00",
+                    "COST": "1116.16"
+                },
+                {
+                    "STOCK_ID": "NCDP-GM-LML-HSKIT",
+                    "WSM_ID": "30516149",
+                    "TITLE": "2011 - 2016 LML 6.6L Duramax Head Gasket Kit w/ ARP Studs",
+                    "INVENTORY": "16",
+                    "PRICE": "1399.00",
+                    "COST": "870.33"
+                },
+                {
+                    "STOCK_ID": "NCDP-6.0LTEMPPIGTAIL",
+                    "WSM_ID": "30514265",
+                    "TITLE": "6.0L 6.4L 03-10 Ford Powerstroke Coolant Oil Air Intake Temperature Pigtail",
+                    "INVENTORY": "0",
+                    "PRICE": "29.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-6.0LEXHMANGASKETKIT",
+                    "WSM_ID": "30514253",
+                    "TITLE": "6.0L 6.4L 03-10 Ford Powerstroke Set Of 2 Exhaust Manifold Gaskets",
+                    "INVENTORY": "5",
+                    "PRICE": "35.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-0307-60-TFDL",
+                    "WSM_ID": "30514290",
+                    "TITLE": "6.0L Ford Powerstroke Updated Turbocharger Oil Feed And Drain Line",
+                    "INVENTORY": "0",
+                    "PRICE": "79.95",
+                    "COST": "14.90"
+                },
+                {
+                    "STOCK_ID": "NCDP-6.4LINJECTORLINEKIT",
+                    "WSM_ID": "30514259",
+                    "TITLE": "6.4L 08-10 Ford PowerStroke Diesel Fuel Injector O-Ring Line & Seal Set of 8",
+                    "INVENTORY": "0",
+                    "PRICE": "289.95",
+                    "COST": "194.32"
+                },
+                {
+                    "STOCK_ID": "NCDP-ZD-15x8HARNESSGPCM",
+                    "WSM_ID": "30514263",
+                    "TITLE": "6.4L 08-10 FORD POWERSTROKE DIESEL MOTORCRAFT ZD-15 GLOW PLUGS + HARNESS + OEM GPCM",
+                    "INVENTORY": "0",
+                    "PRICE": "399.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-6.7LMAFPIGTAIL",
+                    "WSM_ID": "30514271",
+                    "TITLE": "6.7L MAF Mass Air Flow Sensor Pigtail For 10-13 Ford Powerstroke Diesel",
+                    "INVENTORY": "0",
+                    "PRICE": "29.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-CCVORINGSWHITE",
+                    "WSM_ID": "30514276",
+                    "TITLE": "7.3L Crankcase Vent CCV Seal kit For 94-03 Ford Powerstroke Diesel",
+                    "INVENTORY": "0",
+                    "PRICE": "39.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-INJECTOR-CUPS-7.3",
+                    "WSM_ID": "30515690",
+                    "TITLE": "7.3L Ford Powerstroke Injector Cups - Set of 8",
+                    "INVENTORY": "8",
+                    "PRICE": "109.95",
+                    "COST": "25.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-FUEL-REG-ADJ-BS-6.0",
+                    "WSM_ID": "30515686",
+                    "TITLE": "Adjustable Fuel Pressure Regulator with Blue Spring Upgrade for 6.0L Ford Powerstroke",
+                    "INVENTORY": "1",
+                    "PRICE": "99.95",
+                    "COST": "22.25"
+                },
+                {
+                    "STOCK_ID": "NCDP-8PK3210",
+                    "WSM_ID": "30515975",
+                    "TITLE": "Bando Rib Ace Serpentine Belt for Ford 6.0L and Dodge Ram 5.9L / 6.7L",
+                    "INVENTORY": "0",
+                    "PRICE": "79.95",
+                    "COST": "27.80"
+                },
+                {
+                    "STOCK_ID": "NCDP-0206-DMAX-BCK",
+                    "WSM_ID": "30517223",
+                    "TITLE": "Battery Cable Kit (1/0 AWG) 2002-2006 Chevrolet / GMC 6.6L Duramax",
+                    "INVENTORY": "1",
+                    "PRICE": "599.95",
+                    "COST": "456.48"
+                },
+                {
+                    "STOCK_ID": "NCDP-9402-DODGE-BCK",
+                    "WSM_ID": "30516825",
+                    "TITLE": "Battery Cable Kit (1/0 AWG) for 1994 - 2002 Dodge Ram 2500/3500 5.9L Cummins",
+                    "INVENTORY": "5",
+                    "PRICE": "364.99",
+                    "COST": "273.87"
+                },
+                {
+                    "STOCK_ID": "NCDP-0305-DODGE-BCK",
+                    "WSM_ID": "30516827",
+                    "TITLE": "Battery Cable Kit (1/0 AWG) for 2003 - 2005 Dodge Ram 2500/3500 5.9L Cummins 24V",
+                    "INVENTORY": "3",
+                    "PRICE": "389.95",
+                    "COST": "295.60"
+                },
+                {
+                    "STOCK_ID": "NCDP-0609-DODGE-BCK",
+                    "WSM_ID": "30516855",
+                    "TITLE": "Battery Cable Kit (1/0 AWG) for 2006 - 2009 Dodge Ram 2500/3500 5.9L/6.7L Cummins W/ 90 Degree End",
+                    "INVENTORY": "3",
+                    "PRICE": "384.95",
+                    "COST": "291.26"
+                },
+                {
+                    "STOCK_ID": "NCDP-0609-DODGE-BCK-STRT",
+                    "WSM_ID": "30517579",
+                    "TITLE": "Battery Cable Kit (1/0 AWG) for 2006 - 2009 Dodge Ram 2500/3500 5.9L/6.7L Cummins W/ Straight End",
+                    "INVENTORY": "1",
+                    "PRICE": "384.95",
+                    "COST": "291.26"
+                },
+                {
+                    "STOCK_ID": "NCDP-99503-FORD-BCK",
+                    "WSM_ID": "30516828",
+                    "TITLE": "Battery Cable Kit (2/0 AWG) for 1999.5 - 2003 Ford F-250/350 7.3L PowerStroke",
+                    "INVENTORY": "0",
+                    "PRICE": "559.95",
+                    "COST": "421.70"
+                },
+                {
+                    "STOCK_ID": "NCDP-0307-FORD-BCK",
+                    "WSM_ID": "30516829",
+                    "TITLE": "Battery Cable Kit (2/0 AWG) for 2003 - 2007 Ford F-250/350 6.0L PowerStroke",
+                    "INVENTORY": "4",
+                    "PRICE": "569.95",
+                    "COST": "430.39"
+                },
+                {
+                    "STOCK_ID": "NCDP-07510-DMAX-BCK",
+                    "WSM_ID": "30516830",
+                    "TITLE": "Battery Cable Kit (2/0 AWG) for 2007.5 - 2010 Chevrolet / GMC 6.6L Duramax",
+                    "INVENTORY": "4",
+                    "PRICE": "464.99",
+                    "COST": "416.46"
+                },
+                {
+                    "STOCK_ID": "NCDP-MIL-GRN-SHIRT",
+                    "WSM_ID": "30517063",
+                    "TITLE": "Black Skull Logo Military-Green T-Shirt",
+                    "INVENTORY": "0",
+                    "PRICE": "30.00",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-BLK-BLU-SWEATSHIRT",
+                    "WSM_ID": "30517066",
+                    "TITLE": "Blue Logo Black Sweatshirt",
+                    "INVENTORY": "0",
+                    "PRICE": "45.00",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-BLK-BLU-SHIRT",
+                    "WSM_ID": "30517065",
+                    "TITLE": "Blue Logo Black T-Shirt",
+                    "INVENTORY": "0",
+                    "PRICE": "30.00",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-DMAXCATFILTER",
+                    "WSM_ID": "30514641",
+                    "TITLE": "Cat Fuel Filter Adapter Black For 01-16 LB7 LLY LBZ LMM LML Duramax",
+                    "INVENTORY": "8",
+                    "PRICE": "129.95",
+                    "COST": "27.50"
+                },
+                {
+                    "STOCK_ID": "NCDP-1R-0750",
+                    "WSM_ID": "30514642",
+                    "TITLE": "CAT Replacement Fuel Filter For Duramax Filter Adapter 1R-0750",
+                    "INVENTORY": "3",
+                    "PRICE": "34.95",
+                    "COST": "26.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-DT-FPT",
+                    "WSM_ID": "30516227",
+                    "TITLE": "Dodge Ram 98-02 5.9L 24V Fuel Pump Connector For Aux Relay Control",
+                    "INVENTORY": "5",
+                    "PRICE": "24.95",
+                    "COST": "3.95"
+                },
+                {
+                    "STOCK_ID": "NCDP-EGRV-0310",
+                    "WSM_ID": "30517157",
+                    "TITLE": "EGR Valve Pigtail Wiring Connector for 2003-2010 Ford 6.0L Powerstroke Diesel",
+                    "INVENTORY": "24",
+                    "PRICE": "39.95",
+                    "COST": "1.18"
+                },
+                {
+                    "STOCK_ID": "NCDP-9497EBPKIT",
+                    "WSM_ID": "30516233",
+                    "TITLE": "Exhaust Backpressure Sensor Tube and Connector Kit for 94-97 Ford 7.3L",
+                    "INVENTORY": "5",
+                    "PRICE": "119.95",
+                    "COST": "16.10"
+                },
+                {
+                    "STOCK_ID": "NCDP-9903EBPKIT",
+                    "WSM_ID": "30516230",
+                    "TITLE": "Exhaust Backpressure Sensor Tube and Connector Kit for 99-03 7.3L",
+                    "INVENTORY": "6",
+                    "PRICE": "119.95",
+                    "COST": "16.10"
+                },
+                {
+                    "STOCK_ID": "NCDP-9903EBPKIT",
+                    "WSM_ID": "30517183",
+                    "TITLE": "Exhaust Backpressure Sensor Tube and Connector Kit for 99-03 7.3L",
+                    "INVENTORY": "0",
+                    "PRICE": "119.95",
+                    "COST": "16.10"
+                },
+                {
+                    "STOCK_ID": "NCDP-ICPK-6.0-0304",
+                    "WSM_ID": "30516448",
+                    "TITLE": "Ford 6.0L Powerstroke ICP Sensor & Connector Kit (2003-2004)",
+                    "INVENTORY": "95",
+                    "PRICE": "99.95",
+                    "COST": "11.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-ICPK-6.0-05",
+                    "WSM_ID": "30517592",
+                    "TITLE": "Ford 6.0L Powerstroke ICP Sensor & Connector Kit (2004.5-2010)",
+                    "INVENTORY": "100",
+                    "PRICE": "99.95",
+                    "COST": "11.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-TLC-1516",
+                    "WSM_ID": "30516206",
+                    "TITLE": "Ford 6.7L Turbo Oil and Coolant Line Kit 2015-2016 F250/F350",
+                    "INVENTORY": "4",
+                    "PRICE": "139.95",
+                    "COST": "97.76"
+                },
+                {
+                    "STOCK_ID": "NCDP-ICPK-7.3-9403",
+                    "WSM_ID": "30517124",
+                    "TITLE": "Ford 7.3L Powerstroke ICP Sensor & Connector Kit for (1994-2003)",
+                    "INVENTORY": "4",
+                    "PRICE": "99.95",
+                    "COST": "11.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-FORD-GPCM-CK",
+                    "WSM_ID": "30517188",
+                    "TITLE": "Ford Glow Plug Control Module Connector Repair Pigtail Kit 1999-2010",
+                    "INVENTORY": "44",
+                    "PRICE": "99.95",
+                    "COST": "10.50"
+                },
+                {
+                    "STOCK_ID": "NCDP-2C3Z-9157-AA",
+                    "WSM_ID": "30517097",
+                    "TITLE": "FORD OEM Fuel Regulator Repair Kit for 1994-1997 7.3L Powerstroke",
+                    "INVENTORY": "1",
+                    "PRICE": "47.49",
+                    "COST": "29.51"
+                },
+                {
+                    "STOCK_ID": "NCDP-FICMHARNESS05",
+                    "WSM_ID": "30516214",
+                    "TITLE": "Fuel Injection Control Module FICM Harness for 05-07 Ford 6.0L",
+                    "INVENTORY": "7",
+                    "PRICE": "249.95",
+                    "COST": "40.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-FUEL-REG-BS-7.3",
+                    "WSM_ID": "30515682",
+                    "TITLE": "Fuel Pressure Regulator Blue Spring Upgrade Kit 99.5-03 Ford 7.3L Powerstroke Diesel",
+                    "INVENTORY": "0",
+                    "PRICE": "79.95",
+                    "COST": "5.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-0410GPH",
+                    "WSM_ID": "30516209",
+                    "TITLE": "Glow Plug Harness Kit for 2004.5-2010 Ford Powerstroke 6.0L",
+                    "INVENTORY": "38",
+                    "PRICE": "74.95",
+                    "COST": "12.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-12741484",
+                    "WSM_ID": "30517165",
+                    "TITLE": "GM Downstream NOx Sensor 2017-2019 L5P",
+                    "INVENTORY": "3",
+                    "PRICE": "399.00",
+                    "COST": "282.08"
+                },
+                {
+                    "STOCK_ID": "NCDP-64HPFPGSKT",
+                    "WSM_ID": "30517166",
+                    "TITLE": "High Pressure Fuel Pump Gasket Kit for 2008-2010 6.4L Powerstroke",
+                    "INVENTORY": "7",
+                    "PRICE": "94.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-6.0ORBTK",
+                    "WSM_ID": "30516156",
+                    "TITLE": "High Pressure Oil Rail Ball Tube Set for Ford 6.0L Powerstroke Diesel 04-10",
+                    "INVENTORY": "0",
+                    "PRICE": "99.95",
+                    "COST": "30.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-ICP-EBP-9410",
+                    "WSM_ID": "30517158",
+                    "TITLE": "ICP/EBP Sensor Repair Pigtail for 7.3L and 6.0L Powerstroke",
+                    "INVENTORY": "24",
+                    "PRICE": "34.99",
+                    "COST": "1.18"
+                },
+                {
+                    "STOCK_ID": "NCDP-6.4 HPFP INSTALL KIT",
+                    "WSM_ID": "30517220",
+                    "TITLE": "Norcal Diesel High Pressure Fuel Pump (HPFP) Installation Kit for 08-10 6.4L",
+                    "INVENTORY": "0",
+                    "PRICE": "179.95",
+                    "COST": "159.95"
+                },
+                {
+                    "STOCK_ID": "NCDP-BLK-PNK-SHIRT",
+                    "WSM_ID": "30517064",
+                    "TITLE": "Pink Skull Logo Black T-Shirt Womens",
+                    "INVENTORY": "0",
+                    "PRICE": "30.00",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-TBV-1318-RAM",
+                    "WSM_ID": "30517578",
+                    "TITLE": "Transmission Cooler Thermal Bypass Valve Upgrade for 2013\u20132018 Ram 6.7L Cummins 68RFE & Aisin (COMING SOON!)",
+                    "INVENTORY": "0",
+                    "PRICE": "99.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-UP-PIPE-GSKT0307",
+                    "WSM_ID": "30516822",
+                    "TITLE": "Turbo Up-Pipe Gaskets for 2003 - 2007 Ford 6.0L PowerStroke",
+                    "INVENTORY": "9",
+                    "PRICE": "39.95",
+                    "COST": "2.20"
+                },
+                {
+                    "STOCK_ID": "NCDP-FORD-TJFK-1114",
+                    "WSM_ID": "30515974",
+                    "TITLE": "Turbocharger Coolant / Oil Jiffy Fitting Kit with Lines for 11-14 Ford Powerstroke Diesel 6.7L",
+                    "INVENTORY": "3",
+                    "PRICE": "199.95",
+                    "COST": "141.07"
+                },
+                {
+                    "STOCK_ID": "NCDP-FORD-VCGH-9903",
+                    "WSM_ID": "30517187",
+                    "TITLE": "Valve Cover Gasket & Harness Assembly for 1999 - 2003 Ford with 7.3L Powerstroke",
+                    "INVENTORY": "23",
+                    "PRICE": "179.99",
+                    "COST": "28.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-DODGE-VCGH-0623",
+                    "WSM_ID": "30517186",
+                    "TITLE": "Valve Cover Gasket & Harness Assembly for 2006 - 2023 Dodge/RAM with 5.9L & 6.7L Cummins",
+                    "INVENTORY": "23",
+                    "PRICE": "99.95",
+                    "COST": "33.00"
+                },
+                {
+                    "STOCK_ID": "NCDP-GRN-YEL-SHIRT",
+                    "WSM_ID": "30517062",
+                    "TITLE": "Yellow Skull Logo Green T-Shirt",
+                    "INVENTORY": "0",
+                    "PRICE": "30.00",
+                    "COST": "0.00"
+                }
+            ],
+            "Powermaster ": [
+                {
+                    "STOCK_ID": "PWRM-9056",
+                    "WSM_ID": "30516616",
+                    "TITLE": "Powermaster Ultra Duty Diesel Starters 9056 11-17 6.7L Powerstroke",
+                    "INVENTORY": "2",
+                    "PRICE": "289.95",
+                    "COST": "206.40"
+                },
+                {
+                    "STOCK_ID": "PWRM-9057",
+                    "WSM_ID": "30516617",
+                    "TITLE": "Powermaster Ultra Duty Diesel Starters 9057 01-19 GM 6.6L Duramax",
+                    "INVENTORY": "1",
+                    "PRICE": "299.95",
+                    "COST": "206.40"
+                },
+                {
+                    "STOCK_ID": "PWRM-9058",
+                    "WSM_ID": "30516618",
+                    "TITLE": "Powermaster Ultra Duty Diesel Starters 9058 07-16 Ram 2500/3500 5.9L Cummins",
+                    "INVENTORY": "4",
+                    "PRICE": "349.95",
+                    "COST": "251.20"
+                }
+            ],
+            "PPE Diesel": [
+                {
+                    "STOCK_ID": "HFTD-113058100",
+                    "WSM_ID": "30514932",
+                    "TITLE": "5/8 Inch Lift Pump Fuel Line Install Kit GM 01-10 Chevrolet Pickups With 6.6L Duramax PPE Diesel",
+                    "INVENTORY": "1",
+                    "PRICE": "39.99",
+                    "COST": "28.79"
+                },
+                {
+                    "STOCK_ID": "HFTD-119020010",
+                    "WSM_ID": "30515034",
+                    "TITLE": "EGR To Cab Coolant Hose 01-10 PPE Diesel",
+                    "INVENTORY": "10",
+                    "PRICE": "12.99",
+                    "COST": "9.35"
+                },
+                {
+                    "STOCK_ID": "HFTD-119021007",
+                    "WSM_ID": "30515031",
+                    "TITLE": "EGR To Cab Coolant Hose 04.5-10 PPE Diesel",
+                    "INVENTORY": "8",
+                    "PRICE": "13.49",
+                    "COST": "9.71"
+                },
+                {
+                    "STOCK_ID": "HFTD-119021010",
+                    "WSM_ID": "30515030",
+                    "TITLE": "EGR To Cab Coolant Hose 07.5-10 PPE Diesel",
+                    "INVENTORY": "5",
+                    "PRICE": "16.99",
+                    "COST": "12.23"
+                },
+                {
+                    "STOCK_ID": "HFTD-119021011",
+                    "WSM_ID": "30515029",
+                    "TITLE": "EGR To Cab Coolant Hose 11-16 PPE Diesel",
+                    "INVENTORY": "8",
+                    "PRICE": "12.95",
+                    "COST": "9.32"
+                },
+                {
+                    "STOCK_ID": "HFTD-116005024",
+                    "WSM_ID": "30514683",
+                    "TITLE": "Gasket For Turbo Oil Drain Lower With Oval Hole PPE Diesel",
+                    "INVENTORY": "8",
+                    "PRICE": "1.00",
+                    "COST": "0.72"
+                },
+                {
+                    "STOCK_ID": "HFTD-116005022",
+                    "WSM_ID": "30514684",
+                    "TITLE": "Gasket For Turbo Oil Drain Upper With Round Hole PPE Diesel",
+                    "INVENTORY": "9",
+                    "PRICE": "1.00",
+                    "COST": "0.72"
+                },
+                {
+                    "STOCK_ID": "HFTD-114052001",
+                    "WSM_ID": "30514862",
+                    "TITLE": "Magnetic Drain Plug For Duramax Engine Oil Pan 01-16 M14-1.5 PPE Diesel",
+                    "INVENTORY": "1",
+                    "PRICE": "19.99",
+                    "COST": "14.39"
+                },
+                {
+                    "STOCK_ID": "HFTD-116002045",
+                    "WSM_ID": "30514709",
+                    "TITLE": "Turbo Coolant Hose Small Diameter 10Mm PPE Diesel",
+                    "INVENTORY": "2",
+                    "PRICE": "9.99",
+                    "COST": "7.19"
+                }
+            ],
+            "TrackTech Fasteners": [
+                {
+                    "STOCK_ID": "TTD-TTP9403EB401",
+                    "WSM_ID": "30514647",
+                    "TITLE": "7.3 Exhaust Manifold Bolt Kit - Set Of 16 Grade 10.9 94-03 Ford 7.3L Powerstroke",
+                    "INVENTORY": "5",
+                    "PRICE": "119.90",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "TTD-TTC98520HS010",
+                    "WSM_ID": "30514613",
+                    "TITLE": "TrackTech 5.9L & 6.7L Head Studs For 98.5-18 Dodge Ram 6BT ISB Cummins Diesel",
+                    "INVENTORY": "2",
+                    "PRICE": "479.81",
+                    "COST": "239.95"
+                },
+                {
+                    "STOCK_ID": "TTD-TTC8998HS009",
+                    "WSM_ID": "30514648",
+                    "TITLE": "TrackTech 5.9L Head Studs 89-98 Dodge Ram Cummins 12V 6BT",
+                    "INVENTORY": "4",
+                    "PRICE": "479.81",
+                    "COST": "190.00"
+                },
+                {
+                    "STOCK_ID": "TTD-TTP0310HS002",
+                    "WSM_ID": "30514283",
+                    "TITLE": "TrackTech 6.0L Head Stud Kit For 03-10 Ford Powerstroke Diesel VT365",
+                    "INVENTORY": "7",
+                    "PRICE": "479.81",
+                    "COST": "245.96"
+                },
+                {
+                    "STOCK_ID": "TTD-TTP0810HS003",
+                    "WSM_ID": "30514250",
+                    "TITLE": "TrackTech 6.4L\u00a0Head Stud Kit\u00a02008-2010 Ford Powerstroke",
+                    "INVENTORY": "4",
+                    "PRICE": "479.81",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "TTD-TTD0116HS007",
+                    "WSM_ID": "30514609",
+                    "TITLE": "TrackTech 6.6L Duramax Head Studs Kit For 01-16 LB7 LLY LBZ LMM LML Chevy / GMC",
+                    "INVENTORY": "10",
+                    "PRICE": "439.82",
+                    "COST": "190.00"
+                },
+                {
+                    "STOCK_ID": "TTD-TTP9403HS001",
+                    "WSM_ID": "30514277",
+                    "TITLE": "TrackTech 7.3L T444E Head Studs For 94-03 Ford Powerstroke Diesel\u00a0",
+                    "INVENTORY": "4",
+                    "PRICE": "479.81",
+                    "COST": "200.00"
+                },
+                {
+                    "STOCK_ID": "TTD-TTC0818TK214",
+                    "WSM_ID": "30514653",
+                    "TITLE": "TrackTech Complete Top End Cylinder Head Gasket / Studs Service Kit For 07.5-18 6.7L Cummins 24V",
+                    "INVENTORY": "2",
+                    "PRICE": "1399.58",
+                    "COST": "779.95"
+                },
+                {
+                    "STOCK_ID": "TTD-TTC0307EB432",
+                    "WSM_ID": "30515326",
+                    "TITLE": "TrackTech Exhaust Manifold Bolts For 03-07 5.9L Cummins 24V",
+                    "INVENTORY": "4",
+                    "PRICE": "106.57",
+                    "COST": "49.16"
+                },
+                {
+                    "STOCK_ID": "TTP-TTP1118HS004",
+                    "WSM_ID": "30516447",
+                    "TITLE": "TrackTech Head Studs Kit For 2011-2018 Ford Powerstroke 6.7L",
+                    "INVENTORY": "2",
+                    "PRICE": "329.95",
+                    "COST": "239.96"
+                },
+                {
+                    "STOCK_ID": "TTD-TTD1720HS008",
+                    "WSM_ID": "30516459",
+                    "TITLE": "TrackTech Head Studs Kit For 2017-2020 Chevrolet Duramax 6.6L L5P",
+                    "INVENTORY": "6",
+                    "PRICE": "439.82",
+                    "COST": "200.00"
+                },
+                {
+                    "STOCK_ID": "TTD-TTC8998VT731",
+                    "WSM_ID": "30515339",
+                    "TITLE": "TrackTech Valve Cover Bolts for 89-98 5.9L Cummins 12V",
+                    "INVENTORY": "4",
+                    "PRICE": "119.90",
+                    "COST": "49.16"
+                }
+            ],
+            "Apex Chassis": [
+                {
+                    "STOCK_ID": "JJSP-IA103",
+                    "WSM_ID": "30516556",
+                    "TITLE": "Apex Chassis IA103 Idler Arm Without Hose Assembly Fits 2001-2010 Chevy/GMC 2500/3500HD",
+                    "INVENTORY": "1",
+                    "PRICE": "65.00",
+                    "COST": "45.50"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT101",
+                    "WSM_ID": "30516553",
+                    "TITLE": "Apex Chassis KIT101 Ball Joint Kit Fits 2003-2013 Dodge RAM 2500/3500",
+                    "INVENTORY": "3",
+                    "PRICE": "240.00",
+                    "COST": "168.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT104",
+                    "WSM_ID": "30516552",
+                    "TITLE": "Apex Chassis KIT104 Ball Joint Kit Fits Ford and Ram Pickups (Check fitment chart)",
+                    "INVENTORY": "0",
+                    "PRICE": "240.00",
+                    "COST": "168.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT105",
+                    "WSM_ID": "30516551",
+                    "TITLE": "Apex Chassis KIT105 Ball Joint Kit Fits 2001-2010 Chevy/GMC 2500/3500HD",
+                    "INVENTORY": "13",
+                    "PRICE": "240.00",
+                    "COST": "168.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT109",
+                    "WSM_ID": "30516549",
+                    "TITLE": "Apex Chassis KIT109 Tie Rod Assembly Fits 2001-2010 Chevy/GMC 2500/3500HD",
+                    "INVENTORY": "3",
+                    "PRICE": "240.00",
+                    "COST": "168.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT160",
+                    "WSM_ID": "30516546",
+                    "TITLE": "Apex Chassis KIT160 Ball Joint Kit Fits 1994-1999 Dodge RAM 2500/3500 and 1980-1999 Ford F250",
+                    "INVENTORY": "4",
+                    "PRICE": "240.00",
+                    "COST": "168.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT162",
+                    "WSM_ID": "30516544",
+                    "TITLE": "Apex Chassis KIT162 Ball Joint Kit Fits 1994-1999 Dodge RAM 2500/3500",
+                    "INVENTORY": "4",
+                    "PRICE": "240.00",
+                    "COST": "168.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT170",
+                    "WSM_ID": "30516543",
+                    "TITLE": "Apex Chassis KIT170 Tie Rod and Drag Link Assembly Fits 2011-2016 F-250/F-350 Super Duty",
+                    "INVENTORY": "0",
+                    "PRICE": "1150.00",
+                    "COST": "805.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT171",
+                    "WSM_ID": "30516542",
+                    "TITLE": "Apex Chassis KIT171 Drag Link Assembly Fits 2011-2016 F-250/F-350 Super Duty",
+                    "INVENTORY": "1",
+                    "PRICE": "500.00",
+                    "COST": "350.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-KIT180",
+                    "WSM_ID": "30516539",
+                    "TITLE": "Apex Chassis KIT180 Tie Rod and Drag Link Assembly Fits 03-13 RAM 2500/3500",
+                    "INVENTORY": "0",
+                    "PRICE": "995.00",
+                    "COST": "696.50"
+                },
+                {
+                    "STOCK_ID": "JJSP-PA109",
+                    "WSM_ID": "30516514",
+                    "TITLE": "Apex Chassis PA109 Pitman Arm (3 Groove) Fits 1999-2010 Chevy/GMC 2500/3500HD",
+                    "INVENTORY": "1",
+                    "PRICE": "70.00",
+                    "COST": "49.00"
+                },
+                {
+                    "STOCK_ID": "JJSP-BJ162",
+                    "WSM_ID": "30516595",
+                    "TITLE": "Apex Chassis Track Bar Ball Joint Fits 05-19 Ford F-250/F-350 Super Duty",
+                    "INVENTORY": "2",
+                    "PRICE": "60.00",
+                    "COST": "42.00"
+                }
+            ],
+            "Baja Customs": [
+                {
+                    "STOCK_ID": "BAJA-BC-5033",
+                    "WSM_ID": "30516600",
+                    "TITLE": "Baja Customs Trac-inator Trac Bar 05-16 Ford Super Duty",
+                    "INVENTORY": "2",
+                    "PRICE": "799.00",
+                    "COST": "520.00"
+                },
+                {
+                    "STOCK_ID": "BAJA-BC-5063",
+                    "WSM_ID": "30516601",
+                    "TITLE": "Baja Customs Trac-inator Trac Bar for 17+ Ford Super Duty",
+                    "INVENTORY": "5",
+                    "PRICE": "799.00",
+                    "COST": "487.50"
+                }
+            ],
+            "Bosch": [
+                {
+                    "STOCK_ID": "CLVL-1 465 ZS0 044",
+                    "WSM_ID": "30516442",
+                    "TITLE": "Bosch Fuel Pressure Regulator for 2001-2004 GM with 6.6L Duramax LB7 Diesel",
+                    "INVENTORY": "1",
+                    "PRICE": "157.03",
+                    "COST": "118.07"
+                },
+                {
+                    "STOCK_ID": "CLVL-1 465 ZS0 062",
+                    "WSM_ID": "30517513",
+                    "TITLE": "Bosch Fuel Pressure Regulator for 2003-2007 Dodge RAM with 5.9L Cummins Diesel",
+                    "INVENTORY": "2",
+                    "PRICE": "124.95",
+                    "COST": "73.13"
+                },
+                {
+                    "STOCK_ID": "CLVL-1 465 ZS0 058",
+                    "WSM_ID": "30517512",
+                    "TITLE": "Bosch Fuel Pressure Regulator for 2004.5-2005 GM with 6.6L Duramax LB7 Diesel",
+                    "INVENTORY": "2",
+                    "PRICE": "153.19",
+                    "COST": "118.07"
+                },
+                {
+                    "STOCK_ID": "CLVL-1 465 ZS0 054",
+                    "WSM_ID": "30517511",
+                    "TITLE": "Bosch Fuel Pressure Regulator for 2007-2024 Dodge RAM with 6.7L Cummins Diesel",
+                    "INVENTORY": "4",
+                    "PRICE": "149.95",
+                    "COST": "98.90"
+                },
+                {
+                    "STOCK_ID": "CLVL-1 110 010 013",
+                    "WSM_ID": "30516202",
+                    "TITLE": "Bosch Fuel Rail Pressure Relief Valve for GM with 6.6L Duramax LLY/LBZ Diesel and Dodge Ram with 6.7L Cummins Diesel",
+                    "INVENTORY": "4",
+                    "PRICE": "84.59",
+                    "COST": "63.60"
+                },
+                {
+                    "STOCK_ID": "CLVL-F 00R L01 029",
+                    "WSM_ID": "30517607",
+                    "TITLE": "Bosch Fuel Rail Pressure Sensor for 20013-2018 Dodge Ram with 6.7L Cummins Diesel",
+                    "INVENTORY": "1",
+                    "PRICE": "272.20",
+                    "COST": "204.66"
+                },
+                {
+                    "STOCK_ID": "CLVL-0 281 006 327",
+                    "WSM_ID": "30516440",
+                    "TITLE": "Bosch Fuel Rail Pressure Sensor for 2007.5-2012 Dodge Ram with 6.7L Cummins Diesel",
+                    "INVENTORY": "1",
+                    "PRICE": "92.36",
+                    "COST": "69.44"
+                },
+                {
+                    "STOCK_ID": "CLVL-0 445 226 167",
+                    "WSM_ID": "30517517",
+                    "TITLE": "Bosch OEM Fuel Rail Assy 19-24 Ram 6.7L Cummins Diesel",
+                    "INVENTORY": "2",
+                    "PRICE": "266.03",
+                    "COST": "166.27"
+                },
+                {
+                    "STOCK_ID": "CLCV-0 445 218 017",
+                    "WSM_ID": "30517147",
+                    "TITLE": "Bosch OEM Fuel Rail Left Side (Drivers) 11-19 Ford 6.7L",
+                    "INVENTORY": "1",
+                    "PRICE": "349.95",
+                    "COST": "220.64"
+                },
+                {
+                    "STOCK_ID": "CLVL-1 110 010 036",
+                    "WSM_ID": "30516443",
+                    "TITLE": "Bosch Pressure Relief Pop-Off For 2001-2004 GM with 6.6L Duramax LB7 Diesel",
+                    "INVENTORY": "2",
+                    "PRICE": "146.20",
+                    "COST": "109.93"
+                },
+                {
+                    "STOCK_ID": "CLVL-1 110 010 028",
+                    "WSM_ID": "30517140",
+                    "TITLE": "Fuel Pressure Relief Pop Off Valve 2007-2014 RAM 6.7L Cummins",
+                    "INVENTORY": "5",
+                    "PRICE": "41.88",
+                    "COST": "31.49"
+                }
+            ],
+            "Bulletproof Diesel": [
+                {
+                    "STOCK_ID": "BPD-90201049",
+                    "WSM_ID": "30516596",
+                    "TITLE": "Bullet Proof Diesel 6.0L Water Pump 100MM 2004.5 to 2007",
+                    "INVENTORY": "1",
+                    "PRICE": "459.99",
+                    "COST": "319.96"
+                },
+                {
+                    "STOCK_ID": "BPD-90201157",
+                    "WSM_ID": "30515963",
+                    "TITLE": "Bullet Proof Diesel Heavy Duty 6.7L Oil Cooler Upgrade with Gaskets",
+                    "INVENTORY": "2",
+                    "PRICE": "299.95",
+                    "COST": "212.46"
+                },
+                {
+                    "STOCK_ID": "BPD-6700120",
+                    "WSM_ID": "30516482",
+                    "TITLE": "Bulletproof Diesel Ram 6.7L EGR Cooler 2010-2022 With Gasket kit",
+                    "INVENTORY": "0",
+                    "PRICE": "1317.45",
+                    "COST": "996.00"
+                },
+                {
+                    "STOCK_ID": "BPD-90201228",
+                    "WSM_ID": "30516799",
+                    "TITLE": "BulletProof Diesel Water Pump 5.9/6.7 Cummins 1989-2022",
+                    "INVENTORY": "2",
+                    "PRICE": "399.95",
+                    "COST": "319.96"
+                }
+            ],
+            "Cognito Motorsports": [
+                {
+                    "STOCK_ID": "GFGQ-120-90699",
+                    "WSM_ID": "30516623",
+                    "TITLE": "Cognito Front Sway Bar End Link Kit For 4 Inch Lift Systems On 17-22 Ford F-250/F-350 4WD",
+                    "INVENTORY": "3",
+                    "PRICE": "249.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "GFGQ-110-90255",
+                    "WSM_ID": "30516624",
+                    "TITLE": "Cognito Front Sway Bar End Link Kit For 7-9 Inch Lifts On 01-19 Silverado/Sierra 2500/3500 2WD/4WD",
+                    "INVENTORY": "1",
+                    "PRICE": "117.95",
+                    "COST": "0.00"
+                }
+            ],
+            "DMAXSTORE": [
+                {
+                    "STOCK_ID": "DMAX-XD-TR-11",
+                    "WSM_ID": "30514636",
+                    "TITLE": "DMAX XD Tie Rods 2011-2020 Chevy GMC 2500 & 3500 HD Duramax Diesel",
+                    "INVENTORY": "6",
+                    "PRICE": "249.95",
+                    "COST": "172.46"
+                },
+                {
+                    "STOCK_ID": "DMAX-DMAX-0257",
+                    "WSM_ID": "30516467",
+                    "TITLE": "DmaxStore L5P/L5D Water Pump for 2017-2022 Chevy / GMC L5P & L5D",
+                    "INVENTORY": "4",
+                    "PRICE": "199.95",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "DMAX-MAX-TC-0610ZERO",
+                    "WSM_ID": "30515082",
+                    "TITLE": "MAX-Flow SubZero Allison Transmission Cooler, 2006-2010 GM 2500 / 3500 6.6L Duramax",
+                    "INVENTORY": "1",
+                    "PRICE": "459.99",
+                    "COST": "0.00"
+                }
+            ],
+            "Fleece Performance": [
+                {
+                    "STOCK_ID": "FQWW-FPE-SF-CUMM-0509",
+                    "WSM_ID": "30517169",
+                    "TITLE": "Fleece SureFlo\u00ae Performance Sending Unit for 2005 - 2009 Dodge Cummins",
+                    "INVENTORY": "2",
+                    "PRICE": "359.00",
+                    "COST": "274.63"
+                }
+            ],
+            "KRYPTONITE PRODUCTS": [
+                {
+                    "STOCK_ID": "KRPT-568-346",
+                    "WSM_ID": "30516007",
+                    "TITLE": "Krptonite Spindle O-Ring for 2001-2010 Chevy GMC 2500 3500",
+                    "INVENTORY": "5",
+                    "PRICE": "5.69",
+                    "COST": "3.89"
+                },
+                {
+                    "STOCK_ID": "KRPT-1119BJPACK-2",
+                    "WSM_ID": "30516153",
+                    "TITLE": "Kryptoninte Upper and Lower Ball Joint Package Deal for Chevy GMC 2011-2021 (For Aftermarket Control Arms)",
+                    "INVENTORY": "1",
+                    "PRICE": "189.99",
+                    "COST": "116.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRFDEL02",
+                    "WSM_ID": "30516009",
+                    "TITLE": "Kryptonite (0-2\") Sway Bar End Links for 2017-2021 Ford Super Duty F250/F350",
+                    "INVENTORY": "5",
+                    "PRICE": "199.99",
+                    "COST": "123.49"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRFDEL36",
+                    "WSM_ID": "30516010",
+                    "TITLE": "Kryptonite (3-6\") Sway Bar End Links for 2017-2021 Ford Super Duty F250/F350",
+                    "INVENTORY": "4",
+                    "PRICE": "229.99",
+                    "COST": "129.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRFC10",
+                    "WSM_ID": "30516607",
+                    "TITLE": "Kryptonite 1.0\" Leveling Kit Bottom Mount Coil Spacer for 2005-2024 Ford Super Duty F250/F350",
+                    "INVENTORY": "1",
+                    "PRICE": "129.99",
+                    "COST": "84.49"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRFC15",
+                    "WSM_ID": "30515997",
+                    "TITLE": "Kryptonite 1.5\" Leveling Kit Bottom Mount Coil Spacer for 2005-2021 Ford Super Duty F250/F350",
+                    "INVENTORY": "3",
+                    "PRICE": "159.99",
+                    "COST": "90.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR86325",
+                    "WSM_ID": "30514028",
+                    "TITLE": "Kryptonite Alignment Cam Pin Set 2001-2025 Chevy / GMC 2500 & 3500 Hd",
+                    "INVENTORY": "10",
+                    "PRICE": "19.99",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR0026",
+                    "WSM_ID": "30513978",
+                    "TITLE": "Kryptonite Cam Bolt Kit 1999-2010 1500 HD 2500 HD 3500 (Pack Of 2)",
+                    "INVENTORY": "4",
+                    "PRICE": "94.99",
+                    "COST": "51.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR86376",
+                    "WSM_ID": "30514238",
+                    "TITLE": "Kryptonite Cam Bolt Kit 2011-2021 Chevy / GM 2500 HD 3500",
+                    "INVENTORY": "6",
+                    "PRICE": "94.99",
+                    "COST": "51.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR6536",
+                    "WSM_ID": "30516831",
+                    "TITLE": "Kryptonite Death Grip 4 Spline Pitman Arm Fits 88-06 GM 1500 and Trucks equipped with aftermarket steering gear boxes",
+                    "INVENTORY": "4",
+                    "PRICE": "239.99",
+                    "COST": "155.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRISP10",
+                    "WSM_ID": "30513977",
+                    "TITLE": "Kryptonite Death Grip Idler Side Package 2001-2010 GM 2500 3500",
+                    "INVENTORY": "1",
+                    "PRICE": "522.49",
+                    "COST": "399.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR6654",
+                    "WSM_ID": "30514256",
+                    "TITLE": "Kryptonite Death Grip Pitman Arm 2001-2010 Chevy / GMC 1500 HD / 2500 HD / 3500",
+                    "INVENTORY": "1",
+                    "PRICE": "227.99",
+                    "COST": "191.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR419A",
+                    "WSM_ID": "30514603",
+                    "TITLE": "Kryptonite Death Grip Pitman Arm 2011-2019 2011-2019 Chevy/GMC 2500HD/3500 GM Trucks",
+                    "INVENTORY": "1",
+                    "PRICE": "227.99",
+                    "COST": "191.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRGUSSET11",
+                    "WSM_ID": "30514246",
+                    "TITLE": "Kryptonite Extreme Idler Support Frame Gusset 2011-2019 Chevy / GMC 2500 HD 3500 HD",
+                    "INVENTORY": "1",
+                    "PRICE": "85.49",
+                    "COST": "71.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRELR02",
+                    "WSM_ID": "30516609",
+                    "TITLE": "Kryptonite Front Sway Bar End Links (0-2\") 14-21 Ram 25/3500",
+                    "INVENTORY": "1",
+                    "PRICE": "189.99",
+                    "COST": "123.49"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRGUSSET10",
+                    "WSM_ID": "30513976",
+                    "TITLE": "Kryptonite Idler Support Frame Gusset 2001-2010 Chevy GMC 2500 3500",
+                    "INVENTORY": "1",
+                    "PRICE": "89.99",
+                    "COST": "71.99"
+                },
+                {
+                    "STOCK_ID": "KRKEY11",
+                    "WSM_ID": "30516608",
+                    "TITLE": "Kryptonite Leveling Key Set 11-19 GM 25/3500 HD",
+                    "INVENTORY": "2",
+                    "PRICE": "119.99",
+                    "COST": "77.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR0232",
+                    "WSM_ID": "30514241",
+                    "TITLE": "Kryptonite Lower Ball Joint 2011 & Up Chevy / GMC 2500 HD 3500",
+                    "INVENTORY": "4",
+                    "PRICE": "56.99",
+                    "COST": "47.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR20STAGE2",
+                    "WSM_ID": "30515958",
+                    "TITLE": "Kryptonite Stage 2 Leveling Kit for 2020-2024 Chevy / GMC 2500 / 3500",
+                    "INVENTORY": "1",
+                    "PRICE": "729.99",
+                    "COST": "475.99"
+                },
+                {
+                    "STOCK_ID": "KRELBU",
+                    "WSM_ID": "30516604",
+                    "TITLE": "KRYPTONITE SWAY BAR END LINK BUSHING KIT",
+                    "INVENTORY": "1",
+                    "PRICE": "14.99",
+                    "COST": "7.79"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRSBEL26",
+                    "WSM_ID": "30515979",
+                    "TITLE": "Kryptonite Sway Bar End Links For 2020-2021 CHEVY GMC 2500 / 3500 (4-6\")",
+                    "INVENTORY": "3",
+                    "PRICE": "199.99",
+                    "COST": "110.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KRSBEL20",
+                    "WSM_ID": "30515980",
+                    "TITLE": "Kryptonite Sway Bar End Links For 2020-2022 CHEVY GMC 2500 / 3500 (0-2\")",
+                    "INVENTORY": "1",
+                    "PRICE": "179.99",
+                    "COST": "103.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-ULTIMATE11",
+                    "WSM_ID": "30514243",
+                    "TITLE": "Kryptonite Ultimate Front End Package 2011-2024 Chevy / GMC 2500 3500 HD",
+                    "INVENTORY": "1",
+                    "PRICE": "1424.99",
+                    "COST": "1271.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-0110BJPACK",
+                    "WSM_ID": "30513979",
+                    "TITLE": "Kryptonite Upper And Lower Ball Joint Kit (for Stock Control Arms) 2001-2010 Chevy GMC 2500 3500 & H2 Hummer 8 Lug Trucks Only",
+                    "INVENTORY": "6",
+                    "PRICE": "199.99",
+                    "COST": "143.99"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR6696-BLK",
+                    "WSM_ID": "30514018",
+                    "TITLE": "Kryptonite Upper Ball Joint (stock Control Arm) 2001-2010 Chevy / GMC 1500 2500 3500",
+                    "INVENTORY": "4",
+                    "PRICE": "64.99",
+                    "COST": "0.00"
+                },
+                {
+                    "STOCK_ID": "KRPT-KR1426",
+                    "WSM_ID": "30514030",
+                    "TITLE": "Replacement Lower Bump Stops 1999-2010 Chevy / GMC 1500, 2500 3500 HD",
+                    "INVENTORY": "2",
+                    "PRICE": "69.99",
+                    "COST": "0.00"
+                }
+            ],
+            "Driven Diesel": [
+                {
+                    "STOCK_ID": "DD-DD-73L-Dipstick",
+                    "WSM_ID": "30514652",
+                    "TITLE": "Strictly Diesel Engine Oil Dipstick Adapter 7.3L Ford T444E - Driven Diesel",
+                    "INVENTORY": "5",
+                    "PRICE": "329.95",
+                    "COST": "250.00"
+                }
+            ]
+        }
+    }
+}
