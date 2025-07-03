@@ -22,9 +22,7 @@ Issue Explanation:
 
     Inventory: 30
 
-    Kentucky: 15
-    Nevada: 12
-    Texas: 3
+    Availability: Kentucky: 15 Nevada: 12 Texas: 3
 
     This was efficient, and helped boost sales as now Customers had an idea on where the products are coming from.
     Now for the issue, If we have 10 of this item in our inventory in Sacramento, this information is ignored leading to 
@@ -32,11 +30,35 @@ Issue Explanation:
 
     Inventory: 0
 
+    Availability: N/A
+
     The part is not available for purchase. This is also an issue if another vendor has the part readily available but 
     we are not integrated with their inventory.
 
 What do I want the app to do (baby steps):
-    I want the app to allow me to view and edit my current inventory, and export(from the app)/import(to the site) the 
-    inventory levels, as it allows for import schedules using CSV. THIS IS THE MAIN GOAL.
+    View and edit my current inventory, and export(from the app)/import(to the site) the inventory levels, as it allows 
+    for import schedules using CSV. THIS IS THE MAIN GOAL.
+    
+How do I want users to interact with the data:
+    We will have a web interface, blocked by a secure login.
+    Users with admin privileges will be able to edit inventory.
+    Something to do with SQL, idk yet this is new to me.
 
-    I want the app to alert me when inventory reaches a 
+Must have features:
+    Alert me when inventory reaches a critically low level
+    Find inventory by keyword or part number
+    Scalability
+
+Other integrations or automations:
+    I think we will have to connect to an API offered by Shipstation so track inventory being removed from our system.
+    When an order is placed it is automatically sent to shipstation. If an order is being dropshipped, we cancel the 
+    order in Shipstation, and if an order is shipped from us, a tracking label is created. I think we can use this to 
+    our advantage to track what is actually leaving from our location to keep stock accurate if there are other future 
+    vendors with duplicate part numbers.
+
+Suggested Immediate Action Plan
+    Set up user authentication with roles (even if only two users for now).
+    Build the inventory dashboard using your current JSON/CSV structure.
+    Implement CSV import/export for easy data updates.
+    Apply your brand’s color scheme to the app’s UI.
+    Deploy a test version to a simple cloud platform when ready.
