@@ -36,20 +36,24 @@ Issue Explanation:
     we are not integrated with their inventory.
 
 What do I want the app to do (baby steps):
+    
     View and edit my current inventory, and export(from the app)/import(to the site) the inventory levels, as it allows 
     for import schedules using CSV. THIS IS THE MAIN GOAL.
     
 How do I want users to interact with the data:
+    
     We will have a web interface, blocked by a secure login.
     Users with admin privileges will be able to edit inventory.
     Something to do with SQL, idk yet this is new to me.
 
 Must have features:
+    
     Alert me when inventory reaches a critically low level
     Find inventory by keyword or part number
     Scalability
 
 Other integrations or automations:
+    
     I think we will have to connect to an API offered by Shipstation so track inventory being removed from our system.
     When an order is placed it is automatically sent to shipstation. If an order is being dropshipped, we cancel the 
     order in Shipstation, and if an order is shipped from us, a tracking label is created. I think we can use this to 
@@ -57,6 +61,7 @@ Other integrations or automations:
     vendors with duplicate part numbers.
 
 Suggested Immediate Action Plan
+    
     Set up user authentication with roles (even if only two users for now).
     Build the inventory dashboard using your current JSON/CSV structure.
     Implement CSV import/export for easy data updates.
